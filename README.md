@@ -8,6 +8,7 @@ This is the official repository and issue-tracker for All The Fabric
 #### Modpack Links: 
 + https://www.curseforge.com/minecraft/modpacks/all-the-fabric
 + https://www.technicpack.net/modpack/all-the-fabric.1859830
++ https://atlauncher.com/pack/AllTheFabric
   
 Need Help?
 ======

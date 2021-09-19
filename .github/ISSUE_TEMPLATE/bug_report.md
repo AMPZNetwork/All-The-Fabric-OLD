@@ -37,6 +37,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Basic Informations (please complete the following information):**
  - OS: [e.g. Windows]
- - All The Fabric [e.g. 1.0]
- - Platform [e.g. TechnicPack]
+ - All The Forge  Version [e.g. V1]
+ - Platform [e.g. technicpack]
  - Extra mods added by you [e.g. Optifine]

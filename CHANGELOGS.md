@@ -2,3 +2,10 @@
 # All The Fabric | Patch Notes
 <h3>Be sure to always backup your world(s) before updating!</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1</h1>
+
+Initial BETA Release.
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Fabric
+---------------------------------------------------------------------------------
